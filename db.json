@@ -1,0 +1,223 @@
+{
+  "Blogs": [
+    {
+      "id": "1",
+      "title": "Exploring the Hidden Beaches of Goa",
+      "author": "Akhila Bandaru",
+      "date": "2025-06-15",
+      "category": "Beach Destinations",
+      "description": "Discover the lesser-known beaches of Goa where peace meets paradise.",
+      "content": "Goa is famous for its nightlife and crowded beaches, but if you look a little deeper, you'll find hidden gems like Butterfly Beach, Kakolem Beach, and Galgibaga. These untouched spots offer crystal-clear waters, golden sands, and a calm that lets you truly connect with nature. Ideal for solo travelers and couples looking for privacy.",
+      "image": "https://images.unsplash.com/photo-1682743710558-b338ba285925?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "2",
+      "title": "A Magical Journey Through Himachal Pradesh",
+      "author": "Akhila Bandaru",
+      "date": "2025-06-20",
+      "category": "Hill Stations",
+      "description": "Trekking, local food, and snow-capped views await in Himachal.",
+      "content": "From Shimla’s colonial charm to Manali’s snow adventures and Spiti Valley's dramatic landscapes, Himachal Pradesh offers a full experience. Visit traditional wooden temples, stay in local homestays, and sip hot chai in the mountains. It's perfect for both adventure seekers and peace lovers.",
+      "image": "https://images.unsplash.com/photo-1597754865557-96ea6b53c9db?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGhpbWFjaGFsJTIwcHJhZGVzaHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "3",
+      "title": "Culture and Colors of Rajasthan",
+      "author": "Akhila Bandaru",
+      "date": "2025-06-25",
+      "category": "Cultural Trips",
+      "description": "Dive into the royal past and colorful traditions of Rajasthan.",
+      "content": "Rajasthan’s forts, palaces, folk music, and desert culture make it a must-visit. Explore Jaipur's palaces, Udaipur's lakes, and Jaisalmer’s sand dunes. Don’t miss the vibrant bazaars, camel rides, and authentic Rajasthani thali meals. It’s a photographer’s and history lover’s dream.",
+      "image": "https://plus.unsplash.com/premium_photo-1697729844084-c03db2377161?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "4",
+      "title": "5 Days in the Andaman Islands",
+      "author": "Akhila Bandaru",
+      "date": "2025-06-28",
+      "category": "Island Adventures",
+      "description": "A guide to relaxing, snorkeling, and island hopping in Andaman.",
+      "content": "The Andaman Islands are a tropical escape with turquoise waters, coral reefs, and white sand beaches. Havelock and Neil Island offer some of the best diving experiences in India. Visit the Cellular Jail for history, then relax by the beach with fresh seafood and sunset views.",
+      "image": "https://plus.unsplash.com/premium_photo-1668883188879-3a7acd2bec58?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "5",
+      "title": "Spiritual Escape to Varanasi",
+      "author": "Akhila Bandaru",
+      "date": "2025-07-01",
+      "category": "Spiritual Journeys",
+      "description": "Witness the spiritual energy of India’s oldest living city.",
+      "content": "Varanasi is not just a destination, it’s an emotion. The Ganga Aarti at Dashashwamedh Ghat, boat rides at sunrise, and the narrow lanes filled with temples and sadhus create a powerful experience. A great place for introspection and understanding India’s spiritual side.",
+      "image": "https://images.unsplash.com/photo-1561359313-0639aad49ca6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmFyYW5hc2l8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "6",
+      "title": "Road Trip from Visakhapatnam to Araku Valley",
+      "author": "Akhila Bandaru",
+      "date": "2025-07-03",
+      "category": "Road Trips",
+      "description": "A scenic road trip from the coast to the Eastern Ghats.",
+      "content": "Start from Vizag's beaches and drive up to Araku Valley through lush forests, waterfalls, and tribal villages. Stop at Borra Caves and enjoy the coffee plantations. Araku’s cool climate and clean air make it an ideal weekend getaway from Andhra Pradesh.",
+      "image": "https://static.toiimg.com/thumb/msid-121308953,width-1280,height-720,resizemode-4/121308953.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Top 5 Cafés to Visit in Pondicherry",
+      "author": "Akhila Bandaru",
+      "date": "2025-07-04",
+      "category": "Food & Lifestyle",
+      "description": "French vibes, cozy cafés, and great coffee in Pondy.",
+      "content": "Pondicherry’s White Town is filled with charming French-style cafés. Try Café des Arts for vintage vibes, Bread & Chocolate for healthy breakfasts, and Le Café by the beach for ocean views. These places are perfect for relaxing, reading, and enjoying croissants.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiMfbt8sKwBybkw_R6naskI_PY5e4zU2G5Cw&s"
+    },
+    {
+      "id": "8",
+      "title": "Sunrise Trek to Skandagiri Hills, Karnataka",
+      "author": "Akhila Bandaru",
+      "date": "2025-07-05",
+      "category": "Adventure & Trekking",
+      "description": "An early morning trek with stunning sunrise views above the clouds.",
+      "content": "Located near Bangalore, Skandagiri is a popular trek that starts at midnight and ends with a breathtaking sunrise above the clouds. The moderate hike is great for beginners and perfect for weekend thrill-seekers. Don’t forget a flashlight and warm clothes!",
+      "image": "https://plus.unsplash.com/premium_photo-1730145749791-28fc538d7203?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2thbmRhZ2lyaSUyMGhpbGxzJTIwa2FybmF0YWthfGVufDB8fDB8fHww"
+    }
+  ],
+  "Review": [
+    {
+      "id": "1",
+      "blogId": 1,
+      "name": "Sreeja",
+      "location": "Hyderabad",
+      "comment": "Loved the hidden Goa spots! Planning a trip soon 🌴",
+      "rating": 5,
+      "date": "2025-07-06"
+    },
+    {
+      "id": "2",
+      "blogId": 2,
+      "name": "Manoj",
+      "location": "Delhi",
+      "comment": "Himachal looks magical! Your photos are amazing.",
+      "rating": 4,
+      "date": "2025-07-06"
+    },
+    {
+      "id": "3",
+      "blogId": 3,
+      "name": "Kavya",
+      "location": "Jaipur",
+      "comment": "So colorful and rich in history. Rajasthan is calling!",
+      "rating": 5,
+      "date": "2025-07-06"
+    },
+    {
+      "id": "4",
+      "blogId": 4,
+      "name": "Vikram",
+      "location": "Chennai",
+      "comment": "I didn’t know Andaman was this beautiful! Great guide.",
+      "rating": 4,
+      "date": "2025-07-06"
+    },
+    {
+      "id": "5",
+      "blogId": 5,
+      "name": "Anjali",
+      "location": "Varanasi",
+      "comment": "Varanasi is such a powerful experience. Thanks for sharing!",
+      "rating": 5,
+      "date": "2025-07-06"
+    },
+    {
+      "id": "6",
+      "blogId": 6,
+      "name": "Ravi",
+      "location": "Visakhapatnam",
+      "comment": "Did this Vizag to Araku trip recently. Absolutely stunning!",
+      "rating": 5,
+      "date": "2025-07-06"
+    },
+    {
+      "id": "7",
+      "blogId": 7,
+      "name": "Neha",
+      "location": "Bangalore",
+      "comment": "Pondicherry cafés look dreamy! Will check them out.",
+      "rating": 4,
+      "date": "2025-07-06"
+    },
+    {
+      "id": "8",
+      "blogId": 8,
+      "name": "Sai Kiran",
+      "location": "Mysore",
+      "comment": "Skandagiri sunrise trek was on my list. Now I’m ready!",
+      "rating": 5,
+      "date": "2025-07-06"
+    },
+    {
+      "id": "9",
+      "blogId": 9,
+      "name": "Meena",
+      "location": "Mumbai",
+      "comment": "This budget itinerary is so helpful! Bookmarked 👍",
+      "rating": 5,
+      "date": "2025-07-06"
+    }
+  ],
+  "AddBlog": [
+    {
+      "id": "1",
+      "title": "Ultimate 7-Day Itinerary for Paris",
+      "category": "Destination Guide",
+      "author": "Akhila Bandaru",
+      "image": "https://example.com/images/paris-itinerary.jpg",
+      "date": "2025-07-09",
+      "content": "Explore the perfect 7-day plan to visit Paris, including Eiffel Tower, museums, food spots, and hidden gems."
+    },
+    {
+      "id": "2",
+      "title": "Top 10 Travel Hacks Every Jetsetter Should Know",
+      "category": "Travel Tips",
+      "author": "Akhila Bandaru",
+      "image": "https://example.com/images/travel-hacks.jpg",
+      "date": "2025-07-08",
+      "content": "From saving money on flights to packing efficiently, here are hacks to make your journey smoother."
+    },
+    {
+      "id": "3",
+      "title": "Best Hiking Trails in Himachal Pradesh",
+      "category": "Adventure",
+      "author": "Akhila Bandaru",
+      "image": "https://example.com/images/himachal-hiking.jpg",
+      "date": "2025-07-07",
+      "content": "Discover breathtaking trails and nature treks in the heart of the Himalayas."
+    },
+    {
+      "id": "4",
+      "title": "A Foodie’s Guide to Street Food in Bangkok",
+      "category": "Culture & Food",
+      "author": "Akhila Bandaru",
+      "image": "https://example.com/images/bangkok-food.jpg",
+      "date": "2025-07-06",
+      "content": "From pad thai to mango sticky rice, get the inside scoop on Bangkok’s best street eats."
+    },
+    {
+      "id": "5",
+      "title": "Best Cities for Digital Nomads in 2025",
+      "category": "Remote Work",
+      "author": "Akhila Bandaru",
+      "image": "https://example.com/images/nomad-cities.jpg",
+      "date": "2025-07-05",
+      "content": "Explore the top affordable, safe, and Wi-Fi-friendly destinations for remote workers."
+    },
+    {
+      "id": "6",
+      "title": "Romantic Getaways in South India",
+      "category": "Themed Travel",
+      "author": "Akhila Bandaru",
+      "image": "https://example.com/images/romantic-southindia.jpg",
+      "date": "2025-07-04",
+      "content": "Plan the perfect couple’s vacation with serene beaches, cozy stays, and unforgettable memories."
+    }
+  ]
+}
